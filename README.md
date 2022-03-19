@@ -11,3 +11,9 @@ unfollow a user.
 ## Getting Started
 ![resto](https://github.com/frazbhattiiii/images/blob/main/social%20Media%20App.png)
 
+### `npm i`
+First, change the directory to api and parellel to client then run `npm i` in both server and front end and 
+then run 
+## `npm start` or `yarn start` you will find the application runnning
+
+
